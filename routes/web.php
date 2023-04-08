@@ -20,3 +20,7 @@ Route::get('/home', function () {
 Route::get('/tentang', function () {
     return view('catalog.tentang');
 }); 
+
+Route::get('/hubungi', function () {
+    return view('catalog.hubungi');
+}); 

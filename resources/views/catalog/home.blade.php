@@ -264,7 +264,7 @@
                         <div class="footer-pad">
                             <h4>BANTUAN</h4>
                             <ul class="list-unstyled">
-                                <li><a href="#">Hubungi Kami</a></li>
+                                <li><a href="/hubungi">Hubungi Kami</a></li>
                                 <li><a href="#">FAQs</a></li>
                             </ul>
                         </div>
@@ -274,8 +274,8 @@
                         <div class="footer-pad">
                             <img src="img/footer/logowhite.png">
                             <ul class="list-unstyled">
-                                <li><a href="#">Tentang Kami</a></li>
-                                <li><a href="#">Sosial Media</a></li>
+                                <li><a href="/tentang">Tentang Kami</a></li>
+                                <li><a href="/tentang">Sosial Media</a></li>
                             </ul>
                         </div>
                     </div>
